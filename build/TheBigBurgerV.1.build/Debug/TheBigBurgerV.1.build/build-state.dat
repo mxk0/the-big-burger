@@ -1,0 +1,147 @@
+TTheBigBurgerV.1
+v7
+r1
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerList.plist
+c000000004E2975260000000000003725
+t1311339814
+s14117
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerList2.plist
+c000000004E297DC700000000000037F7
+t1311342023
+s14327
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerListCell.xib
+c000000004E27A34700000000000057D9
+t1311220551
+s22489
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.xib
+c000000004E222D1500000000000043CB
+t1310862613
+s17355
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.xib
+c000000004E27A41B000000000000A5CC
+t1311220763
+s42444
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Notes
+c000000004E27A65F00000000000012BA
+t1311221343
+s4794
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Default.png
+c000000004E272DFF000000000001C8A1
+t1311190527
+s116897
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Default@2x.png
+c000000004E272DFF000000000001C8A1
+t1311190527
+s116897
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib
+c000000004E279EB10000000000009E8C
+t1311219377
+s40588
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Info.plist
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/BurgerDetailMapController.nib
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/BurgerDetailViewController.nib
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/BurgerList.plist
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/BurgerList2.plist
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/BurgerListCell.nib
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/Default@2x.png
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/Notes
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/burgericon.png
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/burgericon.png
+c000000004E272AD900000000000122E8
+t1311189721
+s74472
+
+NTheBigBurgerV_1-Info.plist
+c000000004E297202000000000000040D
+t1311339010
+s1037
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerListCell.xib"
+r0
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.xib"
+r0
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib"
+r0
+
+CCopyPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/BurgerList.plist" BurgerList.plist
+r0
+
+CCopyPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Resources/BurgerList2.plist" BurgerList2.plist
+r0
+
+CCpResource build/Debug/TheBigBurgerV.1.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/TheBigBurgerV.1.app/Contents/Resources/Default@2x.png Default@2x.png
+r0
+
+CCpResource build/Debug/TheBigBurgerV.1.app/Contents/Resources/Notes Classes/Notes
+r0
+
+CCpResource build/Debug/TheBigBurgerV.1.app/Contents/Resources/burgericon.png burgericon.png
+r0
+
+CProcessInfoPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app/Contents/Info.plist" TheBigBurgerV_1-Info.plist
+r0
+
+CTouch "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug/TheBigBurgerV.1.app"
+r0
+

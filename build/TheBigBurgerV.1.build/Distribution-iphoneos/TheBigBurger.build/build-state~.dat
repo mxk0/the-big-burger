@@ -1,0 +1,745 @@
+TTheBigBurger
+v7
+r0
+t333982893.525570
+cCheck dependencies
+cCpResource build/Distribution-iphoneos/TheBigBurgerV.1.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/Info.plist" TheBigBurgerV_1-Info.plist
+cCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib"
+cCopyPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerList.plist" BurgerList.plist
+cCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.xib"
+cCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.xib"
+cCpResource build/Distribution-iphoneos/TheBigBurgerV.1.app/Notes Classes/Notes
+cCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerListCell.xib"
+cCopyPNGFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/Default.png" Default.png
+cCopyPNGFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/burgericon.png" burgericon.png
+cCopyPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerList2.plist" BurgerList2.plist
+cCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerDetailViewController2.xib"
+cCopyPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerList3.plist" BurgerList3.plist
+cProcessPCH /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-fxrmxdcitzsynafnlozxmdfkjmwq/TheBigBurgerV_1_Prefix.pch.gch TheBigBurgerV_1_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-aayuknxeoubrycgtdykfjyimulns/TheBigBurgerV_1_Prefix.pch.gch TheBigBurgerV_1_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/main.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV_1AppDelegate.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerListViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerMapViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerDetailViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerDetailMapController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerAnnotation.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/main.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV.1" normal armv6
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV_1AppDelegate.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerListViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerMapViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerDetailViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerDetailMapController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerAnnotation.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV.1" normal armv7
+cCreateUniversalBinary "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app.dSYM" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1"
+cProcessProductPackaging "/Users/MKramer/Library/MobileDevice/Provisioning Profiles/6E4A21A1-5FED-4594-8B30-8A1063B6FAB8.mobileprovision" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/embedded.mobileprovision"
+cTouch "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app"
+cProcessProductPackaging "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Entitlements.plist" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1.xcent"
+cCodeSign "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app"
+cValidate "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D5DE7AF00000000000FD4D0
+t1297999791
+s1037520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D5DE7A400000000000001D0
+t1297999780
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004D5C9CA600000000000002FE
+t1297915046
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D5C9CD400000000002B3AB0
+t1297915092
+s2833072
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Users/MKramer/Library/MobileDevice/Provisioning Profiles/6E4A21A1-5FED-4594-8B30-8A1063B6FAB8.mobileprovision
+c000000004E2CAC5C0000000000001CD7
+t1311550556
+s7383
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerDetailViewController2.xib
+c000000004E31EF8F000000000000A833
+t1311895439
+s43059
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerList.plist
+c000000004E33A9760000000000003725
+t1312008566
+s14117
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerList2.plist
+c000000004E37ECA90000000000007E88
+t1312287913
+s32392
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerList3.plist
+c000000004E37EE2000000000000078B2
+t1312288288
+s30898
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerListCell.xib
+c000000004E31BC5B00000000000052BB
+t1311882331
+s21179
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.h
+c000000004E27A0CD000000000000020F
+t1311219917
+s527
+i<MapKit/MapKit.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m
+c000000004E28BAD60000000000000289
+t1311292118
+s649
+i"BurgerAnnotation.h"
+i"BurgerConstants.h"
+i"BurgerDetailMapController.h"
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerConstants.h
+c000000004E33997B0000000000000130
+t1312004475
+s304
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.h
+c000000004E235A1800000000000001C7
+t1310939672
+s455
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m
+c000000004E2995BB00000000000009B9
+t1311348155
+s2489
+i"BurgerDetailMapController.h"
+i"BurgerAnnotation.h"
+i"BurgerConstants.h"
+i"BurgerDetailViewController.h"
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.xib
+c000000004E222D1500000000000043CB
+t1310862613
+s17355
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.h
+c000000004E37EFEA0000000000000464
+t1312288746
+s1124
+i<UIKit/UIKit.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m
+c000000004E31EF2D0000000000000CBD
+t1311895341
+s3261
+i"BurgerDetailViewController.h"
+i"BurgerConstants.h"
+i"BurgerDetailMapController.h"
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.xib
+c000000004E37F050000000000000A915
+t1312288848
+s43285
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.h
+c000000004E30903D0000000000000242
+t1311805501
+s578
+i<UIKit/UIKit.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m
+c000000004E33A2710000000000000EC5
+t1312006769
+s3781
+i"BurgerListViewController.h"
+i"BurgerConstants.h"
+i"BurgerDetailViewController.h"
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.h
+c000000004E3209AA0000000000000356
+t1311902122
+s854
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m
+c000000004E37EE3C000000000000155F
+t1312288316
+s5471
+i"BurgerMapViewController.h"
+i"BurgerDetailViewController.h"
+i"BurgerAnnotation.h"
+i"BurgerConstants.h"
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Notes
+c000000004E2DE77A0000000000001440
+t1311631226
+s5184
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.h
+c000000004E1EE26600000000000001E6
+t1310646886
+s486
+i<UIKit/UIKit.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m
+c000000004E279E340000000000000A5C
+t1311219252
+s2652
+i"TheBigBurgerV_1AppDelegate.h"
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Default.png
+c000000004E272DFF000000000001C8A1
+t1311190527
+s116897
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Entitlements.plist
+c000000004E2998490000000000000221
+t1311348809
+s545
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib
+c000000004E2D66740000000000009DD6
+t1311598196
+s40406
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/TheBigBurgerV_1_Prefix.pch
+c000000004E1EE0C400000000000000C7
+t1310646468
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app
+t1312290093
+s680
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app.dSYM
+t1312290090
+s102
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerDetailMapController.nib
+t1311550771
+s1907
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerDetailViewController.nib
+t1312289832
+s6296
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerDetailViewController2.nib
+t1312289832
+s6258
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerList.plist
+t1312289830
+s14348
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerList2.plist
+t1312289832
+s19854
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerList3.plist
+t1312289832
+s19656
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerListCell.nib
+t1312289832
+s3346
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/Default.png
+t1311550772
+s140638
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/Info.plist
+t1312289984
+s985
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/MainWindow.nib
+t1312289832
+s5145
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/Notes
+t1312289832
+s5184
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/PkgInfo
+t1312289984
+s8
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/ResourceRules.plist
+t1311550762
+s485
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1
+t1312290090
+s107788
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/burgericon.png
+t1311550772
+s8919
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/embedded.mobileprovision
+t1311550772
+s7383
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerAnnotation.o
+t1312290089
+s17156
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerDetailMapController.o
+t1312290089
+s49356
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerDetailViewController.o
+t1312290089
+s59324
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerListViewController.o
+t1312290089
+s52512
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerMapViewController.o
+t1312290089
+s59804
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV.1
+t1312290089
+s50504
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV.1.LinkFileList
+c000000004E37F5290000000000000495
+t1312290089
+s1173
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV_1AppDelegate.o
+t1312290089
+s54932
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/main.o
+t1312290089
+s8324
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerAnnotation.o
+t1312290090
+s17164
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerDetailMapController.o
+t1312290090
+s49300
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerDetailViewController.o
+t1312290090
+s59360
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerListViewController.o
+t1312290090
+s52448
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerMapViewController.o
+t1312290090
+s59828
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV.1
+t1312290090
+s50444
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV.1.LinkFileList
+c000000004E37F5290000000000000495
+t1312290089
+s1173
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV_1AppDelegate.o
+t1312290089
+s54940
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/main.o
+t1312290089
+s8304
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1.xcent
+t1312290090
+s423
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/burgericon.png
+c000000004E2CA1000000000000002054
+t1311547648
+s8276
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m
+c000000004E1EE0C40000000000000173
+t1310646468
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-aayuknxeoubrycgtdykfjyimulns/TheBigBurgerV_1_Prefix.pch.gch
+t1311348981
+s10463132
+
+N/var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-fxrmxdcitzsynafnlozxmdfkjmwq/TheBigBurgerV_1_Prefix.pch.gch
+t1311348981
+s9996188
+
+NTheBigBurgerV_1-Info.plist
+c000000004E37F4BD00000000000003F1
+t1312289981
+s1009
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333982889#333982889#0(0"0(0#1#0"8612111136#0"0#
+
+CCodeSign "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app"
+s333982890.661607
+e333982893.399450
+r1
+xCodeSign
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app
+lSLF07#2@56"CodeSign build/Distribution-iphoneos/TheBigBurgerV.1.app333982890#333982893#0(0"0(0#0#101"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app8608571488#766"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Distribution: Maxwell Kramer" "--resource-rules=/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/ResourceRules.plist" --entitlements "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1.xcent" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerAnnotation.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s333982889.730213
+e333982889.850231
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerAnnotation.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m333982889#333982889#0(0"0(0#0#80"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m8612027360#2171"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv6" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-fxrmxdcitzsynafnlozxmdfkjmwq/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerAnnotation.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerDetailMapController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s333982889.569106
+e333982889.730097
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerDetailMapController.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m333982889#333982889#0(0"0(0#0#89"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m8613055872#2189"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv6" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-fxrmxdcitzsynafnlozxmdfkjmwq/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerDetailMapController.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerDetailViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s333982889.508780
+e333982889.789826
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerDetailViewController.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m333982889#333982889#0(0"0(0#0#90"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m8609945920#2191"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv6" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-fxrmxdcitzsynafnlozxmdfkjmwq/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerDetailViewController.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerListViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s333982889.288460
+e333982889.508671
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerListViewController.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m333982889#333982889#0(0"0(0#0#88"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m8612968192#2187"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv6" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-fxrmxdcitzsynafnlozxmdfkjmwq/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerListViewController.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerMapViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s333982889.334201
+e333982889.568982
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerMapViewController.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m333982889#333982889#0(0"0(0#0#87"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m8612122688#2185"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv6" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-fxrmxdcitzsynafnlozxmdfkjmwq/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/BurgerMapViewController.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV_1AppDelegate.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s333982889.160763
+e333982889.334094
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV_1AppDelegate.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m333982889#333982889#0(0"0(0#0#90"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m8608465280#2191"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv6" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-fxrmxdcitzsynafnlozxmdfkjmwq/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV_1AppDelegate.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/main.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s333982889.158377
+e333982889.288355
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/main.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m333982889#333982889#0(0"0(0#0#60"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m8610044640#2139"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv6" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-fxrmxdcitzsynafnlozxmdfkjmwq/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerAnnotation.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s333982890.435865
+e333982890.536695
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerAnnotation.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m333982890#333982890#0(0"0(0#0#80"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m8612613504#2171"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv7" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-aayuknxeoubrycgtdykfjyimulns/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerAnnotation.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerAnnotation.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerDetailMapController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s333982890.279565
+e333982890.435756
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerDetailMapController.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m333982890#333982890#0(0"0(0#0#89"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m8607913984#2189"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv7" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-aayuknxeoubrycgtdykfjyimulns/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerDetailMapController.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerDetailViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s333982890.112115
+e333982890.479338
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerDetailViewController.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m333982890#333982890#0(0"0(0#0#90"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m8608094976#2191"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv7" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-aayuknxeoubrycgtdykfjyimulns/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerDetailViewController.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerListViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s333982889.921860
+e333982890.112005
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerListViewController.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m333982889#333982890#0(0"0(0#0#88"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m8612247520#2187"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv7" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-aayuknxeoubrycgtdykfjyimulns/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerListViewController.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerMapViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s333982889.975965
+e333982890.279458
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerMapViewController.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m333982889#333982890#0(0"0(0#0#87"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m8610615872#2185"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv7" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-aayuknxeoubrycgtdykfjyimulns/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/BurgerMapViewController.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV_1AppDelegate.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s333982889.852127
+e333982889.975842
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV_1AppDelegate.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m333982889#333982889#0(0"0(0#0#90"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m8608711936#2191"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv7" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-aayuknxeoubrycgtdykfjyimulns/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV_1AppDelegate.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/main.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s333982889.789949
+e333982889.852034
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/main.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m333982889#333982889#0(0"0(0#0#60"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m8610001856#2139"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources/armv7" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-aayuknxeoubrycgtdykfjyimulns/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerDetailViewController2.xib"
+r0
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerListCell.xib"
+r0
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailMapController.xib"
+r0
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/burgericon.png" burgericon.png
+r0
+
+CCopyPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerList.plist" BurgerList.plist
+r0
+
+CCopyPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerList2.plist" BurgerList2.plist
+r0
+
+CCopyPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/BurgerList3.plist" BurgerList3.plist
+r0
+
+CCpResource build/Distribution-iphoneos/TheBigBurgerV.1.app/Notes Classes/Notes
+r0
+
+CCpResource build/Distribution-iphoneos/TheBigBurgerV.1.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1" normal "armv6 armv7"
+s333982890.581973
+e333982890.585597
+r1
+xCreateUniversalBinary
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1
+xnormal
+xarmv6 armv7
+lSLF07#2@106"CreateUniversalBinary build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1 normal "armv6 armv7"333982890#333982890#0(0"0(0#0#65"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/armv6 armv78612365376#665"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV.1" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV.1" -output "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1"0#
+
+CGenerateDSYMFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app.dSYM" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1"
+s333982890.585696
+e333982890.650563
+r1
+xGenerateDSYMFile
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app.dSYM
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1
+lSLF07#2@133"GenerateDSYMFile build/Distribution-iphoneos/TheBigBurgerV.1.app.dSYM build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1333982890#333982890#0(0"0(0#0#117"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.18610069888#451"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/TheBigBurgerV.1" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app.dSYM"0#
+
+CLd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV.1" normal armv6
+s333982889.850338
+e333982889.921740
+r1
+xLd
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV.1
+xnormal
+xarmv6
+lSLF07#2@164"Link /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV.1333982889#333982889#0(0"0(0#0#0"8607321280#1060"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk "-L/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" -filelist "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV.1.LinkFileList" -dead_strip -miphoneos-version-min=3.2.2 -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework Foundation -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv6/TheBigBurgerV.1"0#
+
+CLd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV.1" normal armv7
+s333982890.536797
+e333982890.581873
+r1
+xLd
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV.1
+xnormal
+xarmv7
+lSLF07#2@164"Link /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV.1333982890#333982890#0(0"0(0#0#0"8610860736#1060"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk "-L/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos" -filelist "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV.1.LinkFileList" -dead_strip -miphoneos-version-min=3.2.2 -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework Foundation -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/Objects-normal/armv7/TheBigBurgerV.1"0#
+
+CProcessInfoPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/Info.plist" TheBigBurgerV_1-Info.plist
+r0
+
+CProcessPCH /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-aayuknxeoubrycgtdykfjyimulns/TheBigBurgerV_1_Prefix.pch.gch TheBigBurgerV_1_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-fxrmxdcitzsynafnlozxmdfkjmwq/TheBigBurgerV_1_Prefix.pch.gch TheBigBurgerV_1_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/MKramer/Library/MobileDevice/Provisioning Profiles/6E4A21A1-5FED-4594-8B30-8A1063B6FAB8.mobileprovision" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Entitlements.plist" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1.xcent"
+s333982890.653715
+e333982890.661531
+r1
+xProcessProductPackaging
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Entitlements.plist
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1.xcent
+lSLF07#2@133"ProcessProductPackaging Entitlements.plist build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1.xcent333982890#333982890#0(0"0(0#0#144"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1.xcent8610366144#480"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Entitlements.plist" -entitlements -format xml -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Distribution-iphoneos/TheBigBurger.build/TheBigBurgerV.1.xcent"0#
+
+CTouch "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app"
+s333982890.650739
+e333982890.653610
+r1
+xTouch
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app
+lSLF07#2@107"Touch /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app333982890#333982890#0(0"0(0#0#0"8608015328#313"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app"0#
+
+CValidate "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app"
+s333982893.399668
+e333982893.525523
+r1
+xValidate
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app
+o2011-08-02 09:01:33.419 Validation[5107:607] *** Warning: Defaulting to the standard codesign tool
+lSLF07#2@56"Validate build/Distribution-iphoneos/TheBigBurgerV.1.app333982893#333982893#0(99"2011-08-02 09:01:33.419 Validation[5107:607] *** Warning: Defaulting to the standard codesign tool0(0#0#101"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app8607191904#422"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Distribution-iphoneos/TheBigBurgerV.1.app"0#
+

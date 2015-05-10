@@ -1,0 +1,307 @@
+TTheBigBurgerV.1
+v7
+r0
+t332371005.633720
+cCheck dependencies
+cProcessInfoPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/Info.plist" TheBigBurgerV_1-Info.plist
+cCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib"
+cCopyPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/BurgerList.plist" BurgerList.plist
+cCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.xib"
+cCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.xib"
+cProcessPCH /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-ewbbycmcvlyrdehgbirbyffwykcf/TheBigBurgerV_1_Prefix.pch.gch TheBigBurgerV_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/main.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/TheBigBurgerV_1AppDelegate.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/BurgerListViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/BurgerMapViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerList.plist
+c000000004E1E11FA00000000000026A6
+t1310593530
+s9894
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.h
+c000000004E1EE1AC0000000000000103
+t1310646700
+s259
+i<UIKit/UIKit.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m
+c000000004E1EE1AC0000000000001155
+t1310646700
+s4437
+i"BurgerListViewController.h"
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.xib
+c000000004E1EE1AC0000000000001C93
+t1310646700
+s7315
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.h
+c000000004E1EE1E500000000000000FC
+t1310646757
+s252
+i<UIKit/UIKit.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m
+c000000004E1EE1E500000000000005BB
+t1310646757
+s1467
+i"BurgerMapViewController.h"
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.xib
+c000000004E1EE1E50000000000001880
+t1310646757
+s6272
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.h
+c000000004E1EE26600000000000001E6
+t1310646886
+s486
+i<UIKit/UIKit.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m
+c000000004E1EE2AF0000000000000A5C
+t1310646959
+s2652
+i"TheBigBurgerV_1AppDelegate.h"
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib
+c000000004E1F5CA700000000000067BB
+t1310678183
+s26555
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/TheBigBurgerV_1_Prefix.pch
+c000000004E1EE0C400000000000000C7
+t1310646468
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app.dSYM
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/BurgerList.plist
+t1310678202
+s11996
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/BurgerListViewController.nib
+t1310678202
+s1516
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/BurgerMapViewController.nib
+t1310678203
+s1231
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/Info.plist
+t1310678201
+s629
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/MainWindow.nib
+t1310678202
+s3021
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/PkgInfo
+t1310678201
+s8
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/TheBigBurgerV.1
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/BurgerListViewController.o
+t2
+s0
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/BurgerMapViewController.o
+t1310678205
+s34724
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/TheBigBurgerV.1.LinkFileList
+c000000004E1F5CB900000000000002A1
+t1310678201
+s673
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/TheBigBurgerV_1AppDelegate.o
+t1310678205
+s50928
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/main.o
+t1310678205
+s6332
+
+N/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m
+c000000004E1EE0C40000000000000173
+t1310646468
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-ewbbycmcvlyrdehgbirbyffwykcf/TheBigBurgerV_1_Prefix.pch.gch
+t1310678204
+s15211536
+
+NTheBigBurgerV_1-Info.plist
+c000000004E1EE0C4000000000000038D
+t1310646468
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332371001#332371001#0(0"0(0#1#0"8626074528#0"0#
+
+CCompileC build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/BurgerListViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332371005.489067
+e332371005.546899
+r0
+xCompileC
+xbuild/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/BurgerListViewController.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m: In function '-[BurgerListViewController numberOfSectionsInTableView:]':
+o/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m:61: error: expected expression before '<' token
+o/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m:62: warning: control reaches end of non-void function
+o/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m: In function '-[BurgerListViewController tableView:numberOfRowsInSection:]':
+o/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m:67: error: expected expression before '<' token
+o/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m:68: warning: control reaches end of non-void function
+lSLF07#2@96"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m332371005#332371005#0(888"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m: In function '-[BurgerListViewController numberOfSectionsInTableView:]':/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m:61: error: expected expression before '<' token/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m:62: warning: control reaches end of non-void function/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m: In function '-[BurgerListViewController tableView:numberOfRowsInSection:]':/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m:67: error: expected expression before '<' token/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m:68: warning: control reaches end of non-void function4(4@36"Expected expression before '<' token332371005#162#137#0(6@88"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m332339500#61#0#61#0#19"expected * before *0(22@40"Control reaches end of non-void function332371005#299#143#0(6@88"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m332339500#62#0#62#0#40"control reaches end of non-void function0(4@36"Expected expression before '<' token332371005#608#137#0(6@88"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m332339500#67#0#67#0#19"expected * before *0(22@40"Control reaches end of non-void function332371005#745#143#0(6@88"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m332339500#68#0#68#0#40"control reaches end of non-void function0(0#0#88"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m8628010496#2309"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/DerivedSources/i386" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/DerivedSources" -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-ewbbycmcvlyrdehgbirbyffwykcf/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/BurgerListViewController.o"1#
+
+CCompileC build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/BurgerMapViewController.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332371005.519935
+e332371005.633631
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/BurgerMapViewController.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m332371005#332371005#0(0"0(0#0#87"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m8599098176#2307"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/DerivedSources/i386" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/DerivedSources" -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-ewbbycmcvlyrdehgbirbyffwykcf/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/BurgerMapViewController.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/TheBigBurgerV_1AppDelegate.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332371005.417586
+e332371005.519820
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/TheBigBurgerV_1AppDelegate.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m332371005#332371005#0(0"0(0#0#90"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m8616666016#2313"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/DerivedSources/i386" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/DerivedSources" -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-ewbbycmcvlyrdehgbirbyffwykcf/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/TheBigBurgerV_1AppDelegate.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/TheBigBurgerV_1AppDelegate.o"0#
+
+CCompileC build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/main.o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332371005.416093
+e332371005.488950
+r1
+xCompileC
+xbuild/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/main.o
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m332371005#332371005#0(0"0(0#0#60"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m8627422944#2261"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/DerivedSources/i386" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/DerivedSources" -include /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-ewbbycmcvlyrdehgbirbyffwykcf/TheBigBurgerV_1_Prefix.pch -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/main.m" -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.xib"
+s332371002.207248
+e332371002.979977
+r1
+xCompileXIB
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.xib
+lSLF07#2@47"CompileXIB Classes/BurgerListViewController.xib332371002#332371002#0(0"0(0#0#90"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.xib8616664544#665"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/BurgerListViewController.nib" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerListViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.xib"
+s332371002.980176
+e332371003.371254
+r1
+xCompileXIB
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.xib
+lSLF07#2@46"CompileXIB Classes/BurgerMapViewController.xib332371002#332371003#0(0"0(0#0#89"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.xib8630779456#663"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/BurgerMapViewController.nib" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/BurgerMapViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib"
+s332371001.468101
+e332371002.983225
+r1
+xCompileXIB
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332371001#332371002#0(0"0(0#0#68"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib8616010400#629"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/MainWindow.nib" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCopyPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/BurgerList.plist" BurgerList.plist
+s332371001.468904
+e332371002.207145
+r1
+xCopyPlistFile
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/BurgerList.plist
+xBurgerList.plist
+lSLF07#2@21"Copy BurgerList.plist332371001#332371002#0(0"0(0#0#70"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/BurgerList.plist8603197152#433"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 BurgerList.plist --outdir "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app"0#
+
+CGenerateDSYMFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app.dSYM" "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/TheBigBurgerV.1"
+r0
+
+CLd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/TheBigBurgerV.1" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/Info.plist" TheBigBurgerV_1-Info.plist
+s332371001.464771
+e332371001.468010
+r1
+xProcessInfoPlistFile
+x/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/Info.plist
+xTheBigBurgerV_1-Info.plist
+lSLF07#2@34"Process TheBigBurgerV_1-Info.plist332371001#332371001#0(0"0(0#0#80"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/TheBigBurgerV_1-Info.plist8617776576#554"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TheBigBurgerV_1-Info.plist -genpkginfo "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app/Info.plist"0#
+
+CProcessPCH /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-ewbbycmcvlyrdehgbirbyffwykcf/TheBigBurgerV_1_Prefix.pch.gch TheBigBurgerV_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332371003.371381
+e332371005.415820
+r1
+xProcessPCH
+x/var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-ewbbycmcvlyrdehgbirbyffwykcf/TheBigBurgerV_1_Prefix.pch.gch
+xTheBigBurgerV_1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile TheBigBurgerV_1_Prefix.pch332371003#332371005#0(0"0(0#0#80"/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/TheBigBurgerV_1_Prefix.pch8627345664#2128"    cd "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-generated-files.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-own-target-headers.hmap" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-all-target-headers.hmap" -iquote "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/TheBigBurgerV.1-project-headers.hmap" "-F/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/include" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/DerivedSources/i386" "-I/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/TheBigBurgerV.1.build/Debug-iphonesimulator/TheBigBurgerV.1.build/DerivedSources" -c "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/TheBigBurgerV_1_Prefix.pch" -o /var/folders/vh/vhlAjfOYFgyDQ5kDkICBUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheBigBurgerV_1_Prefix-ewbbycmcvlyrdehgbirbyffwykcf/TheBigBurgerV_1_Prefix.pch.gch0#
+
+CTouch "/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/build/Debug-iphonesimulator/TheBigBurgerV.1.app"
+r0
+

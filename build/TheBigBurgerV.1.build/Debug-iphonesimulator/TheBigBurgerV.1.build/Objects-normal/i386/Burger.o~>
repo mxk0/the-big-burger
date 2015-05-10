@@ -1,0 +1,12 @@
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m: In function '-[Burger coordinate]':
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m:14: error: expected expression before ';' token
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m:15: error: 'CLLocationCoordinate2D' has no member named 'longitde'
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m:15: error: expected expression before ';' token
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m: In function '-[Burger title]':
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m:21: error: 'resto' undeclared (first use in this function)
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m:21: error: (Each undeclared identifier is reported only once
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m:21: error: for each function it appears in.)
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m:22: warning: control reaches end of non-void function
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m: In function '-[Burger subtitle]':
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m:25: error: 'intersection' undeclared (first use in this function)
+/Users/MKramer/prog/objective c/learn/TheBigBurgerV.1/Classes/Burger.m:26: warning: control reaches end of non-void function

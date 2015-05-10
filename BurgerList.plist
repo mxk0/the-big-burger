@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>#</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>5 Napkin Burger</string>
+			<key>address</key>
+			<string>2315 Broadway (at 84th Street)</string>
+			<key>phone</key>
+			<string>212-333-4488</string>
+			<key>hours</key>
+			<string>Open M-F 11:30am-Midnight</string>
+			<key>hours2</key>
+			<string>S-Su 11am-Midnight</string>
+			<key>meat</key>
+			<string>Pat LaFrieda chuck</string>
+			<key>bun</key>
+			<string>Brioche</string>
+			<key>cheese</key>
+			<string>Comté</string>
+			<key>neighborhood</key>
+			<string>Upper West Side</string>
+			<key>latitude</key>
+			<string>40.786987</string>
+			<key>longitude</key>
+			<string>-73.977759</string>
+			<key>thoughts</key>
+			<string>A cousin of Nice Matin, the “Original Five Napkin Burger” was so popular it was spun off into its own restaurant. On their signature burger, juicy LaFrieda meat and fluffy brioche are complemented by the Five Napkin special treatment: tangy comté and delicious (especially coming from a non-onion eater) caramelized onions. The burger is rich and messy – the drippings of comté blend with the meat to create a flow of different, decadent juice – and yet it still manages to be aesthetically pleasing. With two locations in Manhattan and one in Queens, Five Napkin is a consistent and accessible quick bite for times of burger need, always serving up some of the best in town.
+
+-MK</string>
+			<key>tip</key>
+			<string>Try a milkshake!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>5 Napkin Burger</string>
+			<key>address</key>
+			<string>630 Ninth Avenue (at 45th Street)</string>
+			<key>phone</key>
+			<string>212-757-2277</string>
+			<key>hours</key>
+			<string>Open M-F 11:30am-Midnight</string>
+			<key>hours2</key>
+			<string>S-Su 11am-Midnight</string>
+			<key>meat</key>
+			<string>Pat LaFrieda chuck</string>
+			<key>bun</key>
+			<string>Brioche</string>
+			<key>cheese</key>
+			<string>Comté</string>
+			<key>neighborhood</key>
+			<string>Midtown West</string>
+			<key>latitude</key>
+			<string>40.76022818627338</string>
+			<key>longitude</key>
+			<string>-73.99111747741699</string>
+			<key>thoughts</key>
+			<string>A cousin of Nice Matin, the “Original Five Napkin Burger” was so popular it was spun off into its own restaurant. On their signature burger, juicy LaFrieda meat and fluffy brioche are complemented by the Five Napkin special treatment: tangy comté and delicious (especially coming from a non-onion eater) caramelized onions. The burger is rich and messy – the drippings of comté blend with the meat to create a flow of different, decadent juice – and yet it still manages to be aesthetically pleasing. With two locations in Manhattan and one in Queens, Five Napkin is a consistent and accessible quick bite for times of burger need, always serving up some of the best in town.
+
+-MK</string>
+			<key>tip</key>
+			<string>Try a milkshake!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>5 Napkin Burger</string>
+			<key>address</key>
+			<string>3501 36th Street (at 35th Ave.)</string>
+			<key>phone</key>
+			<string>718-433-2727</string>
+			<key>hours</key>
+			<string>Open M-F 11:30am-Midnight</string>
+			<key>hours2</key>
+			<string>S-Su 11am-Midnight</string>
+			<key>meat</key>
+			<string>Pat LaFrieda chuck</string>
+			<key>bun</key>
+			<string>Brioche</string>
+			<key>cheese</key>
+			<string>Comté</string>
+			<key>neighborhood</key>
+			<string>Astoria</string>
+			<key>latitude</key>
+			<string>40.756179</string>
+			<key>longitude</key>
+			<string>-73.924478</string>
+			<key>thoughts</key>
+			<string>A cousin of Nice Matin, the “Original Five Napkin Burger” was so popular it was spun off into its own restaurant. On their signature burger, juicy LaFrieda meat and fluffy brioche are complemented by the Five Napkin special treatment: tangy comté and delicious (especially coming from a non-onion eater) caramelized onions. The burger is rich and messy – the drippings of comté blend with the meat to create a flow of different, decadent juice – and yet it still manages to be aesthetically pleasing. With two locations in Manhattan and one in Queens, Five Napkin is a consistent and accessible quick bite for times of burger need, always serving up some of the best in town.
+
+-MK</string>
+			<key>tip</key>
+			<string>Try a milkshake!</string>
+		</dict>
+	</array>
+	<key>A</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>ABC Kitchen</string>
+			<key>address</key>
+			<string>35 East 18th St. (Broadway &amp; Park Ave.)</string>
+			<key>phone</key>
+			<string>212-475-5829</string>
+			<key>hours</key>
+			<string>Open Su-Th 5:30-10:30pm, F-S 5:30-11:30pm</string>
+			<key>hours2</key>
+			<string>Lunch S-Su 11:30am-3:30pm, M-F Noon-3pm</string>
+			<key>meat</key>
+			<string>Akaushi wagyu</string>
+			<key>bun</key>
+			<string>Eli&apos;s Bakery sesame</string>
+			<key>cheese</key>
+			<string>Aged Bloomsday</string>
+			<key>neighborhood</key>
+			<string>Flatiron</string>
+			<key>latitude</key>
+			<string>40.73751875520227</string>
+			<key>longitude</key>
+			<string>-73.9894437789917</string>
+			<key>thoughts</key>
+			<string>ABC Kitchen’s burger is like everything else on their menu: innovative, well-executed, and a pleasure to eat. The meat, Texan Akaushi wagyu, is juicy, flavorful, and a perfect medium rare. ABC chose shaved aged Bloomsday cheese, a nutty, slightly sweet divergence from the usual choice of cheeses. On top of the melt lies an artistic array of pickled jalapeños; aside from their aesthetic merits, the peppers add flavor without overpowering with spice. Finally, the fluffy brioche bun is coated with a light layer of ABC’s homemade herb aioli, which combines arugula, chives, and basil to excellent effect. This burger is well-balanced, amply sized, and a welcome change from the more-often-than-not disappointing burgers at similarly “hot” restaurants.
+
+-MK</string>
+			<key>tip</key>
+			<string>Try the salty-sweet sundae.</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Ai Fiori</string>
+			<key>address</key>
+			<string>400 Fifth Avenue (36th &amp; 37th Streets)</string>
+			<key>phone</key>
+			<string>212-613-8660</string>
+			<key>hours</key>
+			<string>Open daily</string>
+			<key>hours2</key>
+			<string>11:45am-2:30pm</string>
+			<key>meat</key>
+			<string>Sirloin, chuck, brisket</string>
+			<key>bun</key>
+			<string>House-made roll</string>
+			<key>cheese</key>
+			<string>American</string>
+			<key>neighborhood</key>
+			<string>Midtown East</string>
+			<key>latitude</key>
+			<string>40.750231790306195</string>
+			<key>longitude</key>
+			<string>-73.98371458053589</string>
+			<key>thoughts</key>
+			<string>The burger at Ai Fiori defies the old adage that &quot;If If it seems too good to be true, it probably is.&quot;
+
+Initially, I reacted to the burger&apos;s aesthetic seductiveness. Consisting of a circular dome above a rectangular base, its construction seems to reference architectural masterpieces: the Hagia Sofia, the Pantheon, or the Taj Mahal. My attention then quickly shifted to a superb first bite, followed by perfect pommes dauphines. The burger is sweet but salty, juicy but thirst-inducing, rich but leaves you “101% full.” Ai Fiori is a gourmet oasis within a desert of mediocre Midtown burgers; pop in before all of corporate America discovers this gem of ground beef!
+
+-SN</string>
+			<key>tip</key>
+			<string>Burger at lunch only!</string>
+		</dict>
+	</array>
+	<key>B</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>B. Cafe</string>
+			<key>address</key>
+			<string>240 E 75th St. (Second &amp; Third Ave.)</string>
+			<key>phone</key>
+			<string>212-249-3300</string>
+			<key>hours</key>
+			<string>Open M-S 5-11pm, Su 5-10pm</string>
+			<key>hours2</key>
+			<string>Brunch S-Su 11:30am-4pm</string>
+			<key>meat</key>
+			<string>8 oz. Fresh ground beef</string>
+			<key>bun</key>
+			<string>Brioche</string>
+			<key>cheese</key>
+			<string>Imported Chimay</string>
+			<key>neighborhood</key>
+			<string>Upper East Side</string>
+			<key>latitude</key>
+			<string>40.77094622851332</string>
+			<key>longitude</key>
+			<string>-73.95761132240295</string>
+			<key>thoughts</key>
+			<string>This burger has a deep, smoky flavor, on account of its grilled pancetta, and it oozes with juice. It sits atop an airy brioche bun and comes with caper remoulade. The frites, however, are the highlight of this burger experience; they are well-sized, well-salted, and well-cooked.
+
+My only complaint at B-Café was that there simply wasn’t enough cheese on my burger. And in my book, that’s a very big “oy!”
+
+-SN</string>
+			<key>tip</key>
+			<string>Try the frites&apos; sauce on the burger.</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>B. Cafe West</string>
+			<key>address</key>
+			<string>566 Amsterdam Ave. (87th &amp; 88th St.)</string>
+			<key>phone</key>
+			<string>212-873-0003</string>
+			<key>hours</key>
+			<string>Open M-Th 5-11pm, F-S 5pm-Midnight</string>
+			<key>hours2</key>
+			<string>Su 5-10pm &amp; Brunch S-Su 10am-4pm</string>
+			<key>meat</key>
+			<string>8 oz. Fresh ground beef</string>
+			<key>bun</key>
+			<string>Brioche</string>
+			<key>cheese</key>
+			<string>Imported Chimay</string>
+			<key>neighborhood</key>
+			<string>Upper West Side</string>
+			<key>latitude</key>
+			<string>40.788729975747756</string>
+			<key>longitude</key>
+			<string>-73.97446632385254</string>
+			<key>thoughts</key>
+			<string>This burger has a deep, smoky flavor, on account of its grilled pancetta, and it oozes with juice. It sits atop an airy brioche bun and comes with caper remoulade. The frites, however, are the highlight of this burger experience; they are well-sized, well-salted, and well-cooked.
+
+My only complaint at B-Café was that there simply wasn’t enough cheese on my burger. And in my book, that’s a very big “oy!”
+
+-SN</string>
+			<key>tip</key>
+			<string>Try the frites&apos; sauce on the burger.</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Belcourt</string>
+			<key>address</key>
+			<string>84 East 4th Street (at 2nd Avenue)</string>
+			<key>phone</key>
+			<string>212-979-2034</string>
+			<key>hours</key>
+			<string>Open M-Th 4-11pm, F-S 5pm-Midnight</string>
+			<key>hours2</key>
+			<string>Su 5-10pm &amp; Brunch S-Su 11am-3:30pm</string>
+			<key>meat</key>
+			<string>Grass-fed chuck</string>
+			<key>bun</key>
+			<string>Homemade</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>East Village</string>
+			<key>latitude</key>
+			<string>40.725616372117905</string>
+			<key>longitude</key>
+			<string>-73.9894437789917</string>
+			<key>thoughts</key>
+			<string>Nestled in a hopping E. Village neighborhood, Belcourt offers an eclectic pan-European menu with locavore influences. While grass-fed beef is often dry and overly lean, their burger is surprisingly juicy and flavorful. Along with its home-made bun, home-cured pickles, and home-mixed ketchup and mayo, Belcourt’s burger is definitely a winner.
+
+-MK</string>
+			<key>tip</key>
+			<string>House-made ketchup and mayo!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Big Nick&apos;s</string>
+			<key>address</key>
+			<string>2175 Broadway (76th &amp; 77th Streets)</string>
+			<key>phone</key>
+			<string>212-362-9238</string>
+			<key>hours</key>
+			<string>Open daily</string>
+			<key>hours2</key>
+			<string>24 hours</string>
+			<key>meat</key>
+			<string>Choice of meat</string>
+			<key>bun</key>
+			<string>Brioche</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>Upper West Side</string>
+			<key>latitude</key>
+			<string>40.78231245251005</string>
+			<key>longitude</key>
+			<string>-73.98093581199646</string>
+			<key>thoughts</key>
+			<string>Big Nicks is one of those places with a menu so long and appealing, by the time you get through it you have chosen enough dishes for an army. The burger list alone offers dozens of styles, toppings, and meat types; there is literally a burger for everyone. My favorite is a custom Mexican breakfast burger – medium-rare beef with cheddar cheese, bacon, guacamole, and a fried egg. Open and delivering 24/7/365, Big Nick’s is both late-night munchie material and delicious day-time casual dining.
+
+-MK</string>
+			<key>tip</key>
+			<string>Delivers 24 hours!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Blue Ribbon Bakery</string>
+			<key>address</key>
+			<string>35 Downing Street (at Bedford Street)</string>
+			<key>phone</key>
+			<string>212-337-0404</string>
+			<key>hours</key>
+			<string>Open M-F Noon-3pm &amp; 6pm-Midnight</string>
+			<key>hours2</key>
+			<string>S-Su 11:30am-4pm &amp; 4pm-Midnight</string>
+			<key>meat</key>
+			<string>Chuck</string>
+			<key>bun</key>
+			<string>House-made sesame</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>West Village</string>
+			<key>latitude</key>
+			<string>40.72946211531803</string>
+			<key>longitude</key>
+			<string>-74.00355219841003</string>
+			<key>thoughts</key>
+			<string>The burger at Blue Ribbon Bakery is very solid. The bun was one of the tastiest buns I&apos;ve ever had; made in the restaurant&apos;s own bakery, it&apos;s a hybrid between a brioche roll and a sesame seed bun. The meat was savory and shaped into a manageably sized patty. The fries were crispy but soft, salty but not too salty. 
+
+This was not a messy burger; in fact, it was especially easy to bite and hold. Moreover, this is the perfect burger for picky eaters; they leave the veggies on the side and allow you to choose your cheese. But, while each of the components was well executed, the burger failed to be more than the sum its parts -- the ultimate test of a burger.
+
+-SN</string>
+			<key>tip</key>
+			<string>One of Manhattan&apos;s oldest ovens!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Burger Joint</string>
+			<key>address</key>
+			<string>119 W 56th Street (Sixth &amp; Seventh Ave.)</string>
+			<key>phone</key>
+			<string>212-708-7414</string>
+			<key>hours</key>
+			<string>Open Su-Th 11am-11:30pm</string>
+			<key>hours2</key>
+			<string>F-S 11am-Midnight</string>
+			<key>meat</key>
+			<string>*Top Secret*</string>
+			<key>bun</key>
+			<string>Arnold bun</string>
+			<key>cheese</key>
+			<string>Colby/cheddar mix</string>
+			<key>neighborhood</key>
+			<string>Midtown West</string>
+			<key>latitude</key>
+			<string>40.763836272185216</string>
+			<key>longitude</key>
+			<string>-73.97759914398193</string>
+			<key>thoughts</key>
+			<string>Burger Joint in the Parker Meridien Hotel attracts burger mavens from across the nation. For me, the burger joint cheeseburger was a treat -- and at the same time, it wasn&apos;t too spendy. However, this burger was not entirely guilt free: waiting on line kept me away from my desk for longer than expected, and this dirty burger made me want to balance its grease with something healthier, like celery or really anything green.
+
+The Burger Joint burger satisfied -- no doubt -- but I&apos;m in no major rush to return: it was a solid B+. While delicious and juicy, it lacked the intriguing pizazz of its neighboring power burgers.
+
+-SN</string>
+			<key>tip</key>
+			<string>Anticipate a long line.</string>
+		</dict>
+	</array>
+	<key>C</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>Corner Bistro</string>
+			<key>address</key>
+			<string>331 West 4th Street (at Jane Street)</string>
+			<key>phone</key>
+			<string>212-242-9502</string>
+			<key>hours</key>
+			<string>Open M-S 11:30am-4am</string>
+			<key>hours2</key>
+			<string>Su Noon-4am</string>
+			<key>meat</key>
+			<string>Chuck and sirloin</string>
+			<key>bun</key>
+			<string>Sesame seed</string>
+			<key>cheese</key>
+			<string>American</string>
+			<key>neighborhood</key>
+			<string>West Village</string>
+			<key>latitude</key>
+			<string>40.738022770880654</string>
+			<key>longitude</key>
+			<string>-74.0037453174591</string>
+			<key>thoughts</key>
+			<string>Nestled in one of the West Village’s many chaotic crossroads, Corner Bistro is a hole-in-one for a night of meat, beer, and good chat. Its no frills attitude, beers priced for consumption, and Bistro Burger keep hoards of patrons happy until the wee hours, every night of the week. 
+
+The burger itself is rather traditional: a sesame seed bun, American cheese, bacon, and a sirloin/chuck blend. But, the bacon is a perfect burger crispness, and the patty is hot, thick, and impossibly juicy. Paired with their shoestring fries and a few pints of McSorley’s, it requires some will – even from the most willful burger eater – to tap out before round #2.
+
+-MK</string>
+			<key>tip</key>
+			<string>Cash only.</string>
+		</dict>
+	</array>
+	<key>J</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>J.G. Melon</string>
+			<key>address</key>
+			<string>1291 Third Avenue (at 74th Street)</string>
+			<key>phone</key>
+			<string>212-744-0585</string>
+			<key>hours</key>
+			<string>Open daily</string>
+			<key>hours2</key>
+			<string>11:30am-4am</string>
+			<key>meat</key>
+			<string>*Top Secret*</string>
+			<key>bun</key>
+			<string>Arnold bun</string>
+			<key>cheese</key>
+			<string>American</string>
+			<key>neighborhood</key>
+			<string>Upper East Side</string>
+			<key>latitude</key>
+			<string>40.771051856415305</string>
+			<key>longitude</key>
+			<string>-73.95930647850037</string>
+			<key>thoughts</key>
+			<string>The burger at JG Melon&apos;s is almost as unique as the restaurant itself. Although already plump, the artists behind the griddle strategically choose small buns to accompany the patty...creating an illusion similar to that of an insecure girl and her colony of push-ups. Nonetheless, the burger is tender and juicy, and tastes especially good alongside an order of JGs&apos; signature cottage fries and a few beers. Cash-only at this small Upper East Side eatery.
+
+-TN</string>
+			<key>tip</key>
+			<string>Cash only. Cottage fries = yum.</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Jules Bistro</string>
+			<key>address</key>
+			<string>65 St. Marks Place (First &amp; Second Ave.)</string>
+			<key>phone</key>
+			<string>212-477-5560</string>
+			<key>hours</key>
+			<string>Open Su-Th 11am-Midnight</string>
+			<key>hours2</key>
+			<string>F-S 11am-1am</string>
+			<key>meat</key>
+			<string>Grass-fed Angus</string>
+			<key>bun</key>
+			<string>Brioche</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>East Village</string>
+			<key>latitude</key>
+			<string>40.72800677563629</string>
+			<key>longitude</key>
+			<string>-73.986074924469</string>
+			<key>thoughts</key>
+			<string>St. Marks’ Jules Bistro provides an excellent date spot and a delicious burger to boot. Modestly priced – especially compared the rest of the menu – the Jules burger is accompanied by crisp Belgian-style frites, tangy chipotle mayo, and a refreshing pickle &amp; red onion relish. There may be other appealing choices if you are craving a burger in this neighborhood, but only Jules&apos; comes with a side of jazz.
+
+-MK</string>
+			<key>tip</key>
+			<string>Live jazz every night!</string>
+		</dict>
+	</array>
+	<key>K</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>Kingswood</string>
+			<key>address</key>
+			<string>121 W 10th St. (Greenwich &amp; Sixth Ave.)</string>
+			<key>phone</key>
+			<string>212-645-0018</string>
+			<key>hours</key>
+			<string>Su 5-10pm, M 5-11pm, T-W 5-11:30pm</string>
+			<key>hours2</key>
+			<string>Th-S 6pm-Midnight, Brunch S-Su 11am-4pm</string>
+			<key>meat</key>
+			<string>Char-grilled</string>
+			<key>bun</key>
+			<string>Ciabatta</string>
+			<key>cheese</key>
+			<string>Cheddar</string>
+			<key>neighborhood</key>
+			<string>West Village</string>
+			<key>latitude</key>
+			<string>40.73475473036701</string>
+			<key>longitude</key>
+			<string>-73.99959325790405</string>
+			<key>thoughts</key>
+			<string>Although without a reservation we waited over an hour to be seated, Kingswood&apos;s burger was truly delicious. It has all the elements of a traditional burger - meat and cheese on a ciabatta bun - but with an interesting twist. Instead of ketchup or mustard, Kingswood tops the creation with a home-made, sriracha-inspired chili sauce. A side of herb- and salt-covered fries made for a killer combo.
+
+-MK</string>
+			<key>tip</key>
+			<string>Make a reservation!</string>
+		</dict>
+	</array>
+	<key>L</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>**The Little Owl**</string>
+			<key>address</key>
+			<string>90 Bedford Street (at Grove Street)</string>
+			<key>phone</key>
+			<string>212-741-4695</string>
+			<key>hours</key>
+			<string>Lunch M-F Noon-2:30pm</string>
+			<key>hours2</key>
+			<string>Brunch S-Su 10:30am-2:30pm</string>
+			<key>meat</key>
+			<string>Brisket &amp; short rib</string>
+			<key>bun</key>
+			<string>Pizza dough/molasses</string>
+			<key>cheese</key>
+			<string>American</string>
+			<key>neighborhood</key>
+			<string>West Village</string>
+			<key>latitude</key>
+			<string>40.73237269919591</string>
+			<key>longitude</key>
+			<string>-74.00534391403198</string>
+			<key>thoughts</key>
+			<string>Burger zen has finally been found.
+
+The meat was a logical choice: Pat LaFrieda brisket and short rib, a juicy blend that is rich but not overpowering. The patty is topped with Little Owl’s thick-cut maple-smoked bacon, providing exceptional flavor and texture. The cheese is interesting as well; whereas most other burgers offer a choice of “fancier” cheeses, the Little Owl stays simple with American. 
+
+This burger’s true magic lies in its bun. Absorptiveness and hardiness were the driving force behind Little Owl&apos;s search for the perfect dough. Pizza dough provides both, and a dash of molasses adds slight sweetness, giving the bun unique flavor and consistency. This burger is seriously good.
+
+-MK</string>
+			<key>tip</key>
+			<string>Enlightenment. Only at lunch/brunch!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Lobby Bar @ the Ace Hotel</string>
+			<key>address</key>
+			<string>20 W 29th Street (Broadway &amp; Fifth Ave.)</string>
+			<key>phone</key>
+			<string>212-679-1939</string>
+			<key>hours</key>
+			<string>Open daily</string>
+			<key>hours2</key>
+			<string>7am-4pm &amp; 5:30pm-Midnight</string>
+			<key>meat</key>
+			<string>Pat LaFrieda</string>
+			<key>bun</key>
+			<string>Brioche</string>
+			<key>cheese</key>
+			<string>English cheddar</string>
+			<key>neighborhood</key>
+			<string>Flatiron</string>
+			<key>latitude</key>
+			<string>40.74598896309129</string>
+			<key>longitude</key>
+			<string>-73.98785591125488</string>
+			<key>thoughts</key>
+			<string>A cousin of Spotted Pig&apos;s acclaimed (and to-be-tasted) roquefort creation, the Breslin burger is modest, yet delicious. Served in the Ace Hotel&apos;s comfy Lobby Bar, one might find him or herself sampling this burger amidst a hodgepodge of Columbia students studying for finals, stranded single ladies searching for some company, and &quot;hip&quot; businessmen swapping beers and cheer. The burger itself is juicy, complemented by a light serving of bacon and white cheddar, and is served with crisp, thick belgian-style frites. Light and casual, this burger is the perfect after-work refreshment. For any beer drinkers out there, order up a can of Pork Slap Pale Ale and call it a day.
+
+-MK</string>
+			<key>tip</key>
+			<string>Add extra cheese, and bacon!</string>
+		</dict>
+	</array>
+	<key>M</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>Minetta Tavern</string>
+			<key>address</key>
+			<string>113 MacDougal Street (at Minetta Lane)</string>
+			<key>phone</key>
+			<string>212-475-5000</string>
+			<key>hours</key>
+			<string>Open M-Th &amp; Su 8am-5am</string>
+			<key>hours2</key>
+			<string>F-S 8am-6am</string>
+			<key>meat</key>
+			<string>Short rib</string>
+			<key>bun</key>
+			<string>Balthazar sesame seed</string>
+			<key>cheese</key>
+			<string>Cheddar</string>
+			<key>neighborhood</key>
+			<string>West Village</string>
+			<key>latitude</key>
+			<string>40.72994180131132</string>
+			<key>longitude</key>
+			<string>-74.00066614151001</string>
+			<key>thoughts</key>
+			<string>One month later after my visit to Minetta Tavern, the sweet, oniony taste of their legendary Black Label Burger (26$) can be conjured in my mouth almost instantly. Its highly distinctive, rich-in-sodium-high-in-deliciousness makes it fit for King Arthur&apos;s table (oops it&apos;s french, King Louis&apos;). Stacked between two brioche buns , this meat (chuck, skirt, short rib, brisket plus 45 day dry aged ribeye), caramelized onions, cigarette fries (piled high) combo satisfies all burger receptors at first chomp. Hang on for the next few and the butter laced gout coma settles in. Nurse your new medical condition with a dark-and-stormy and cancel any planned evening activities.
+
+-EB &amp; LS
+
+If dry-aged steak isn&apos;t your thing, try the Minetta Burger. Yum.</string>
+			<key>tip</key>
+			<string>Delicious burgers at all hours.</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>M. Wells</string>
+			<key>address</key>
+			<string>21-17 49th Avenue, Long Island City</string>
+			<key>phone</key>
+			<string>718-425-6917</string>
+			<key>hours</key>
+			<string>Closed!</string>
+			<key>hours2</key>
+			<string>To be re-opened, Fall/Winter 2011</string>
+			<key>meat</key>
+			<string>60% beef, 40% lamb</string>
+			<key>bun</key>
+			<string>Rustic</string>
+			<key>cheese</key>
+			<string>None</string>
+			<key>neighborhood</key>
+			<string>Long Island City</string>
+			<key>latitude</key>
+			<string>40.74245306696079</string>
+			<key>longitude</key>
+			<string>-73.94865274429321</string>
+			<key>thoughts</key>
+			<string>M. Wells&apos; burger is, well, life changing. Unlike those of Burger Joint, the Palm, or Veselka, this burger is distinctly gourmet. The ketchup (from First Field in NJ) has a spicy kick to it. Both sweet, the pickles are soft, while the grilled onions crunch. Finally, and most importantly, the meat is salty and rich. Each bite is full of contrasts (fascinations), and the bun serves its proper purpose as an edible plate. 
+
+M.Wells is currently closed, but we hear they intend to have the restaurant re-opened by the end of the year. Let’s cross our fingers that this is a quick transition; I don’t know how long I can live without my new favorite burger.
+
+-SN</string>
+			<key>tip</key>
+			<string>Order Old Bay fries on the side!</string>
+		</dict>
+	</array>
+	<key>N</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>Nectar On 82nd</string>
+			<key>address</key>
+			<string>1090 Madison Avenue (at 82nd Street)</string>
+			<key>phone</key>
+			<string>212-772-0916</string>
+			<key>hours</key>
+			<string>Open daily</string>
+			<key>hours2</key>
+			<string>7am-10pm</string>
+			<key>bun</key>
+			<string>Sesame seed</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>Upper East Side</string>
+			<key>latitude</key>
+			<string>40.77815291638304</string>
+			<key>longitude</key>
+			<string>-73.96081924438477</string>
+			<key>meat</key>
+			<string>*Super Secret*</string>
+			<key>thoughts</key>
+			<string>The physics of Nectar&apos;s burger give an otherwise single-minded burger brain new food for thought. The bun, though the conventional sesame seed, is sealed shut on its insides by a thorough coating of melted cheese (for me, cheddar). The effect: while an ordinary bun absorbs most of its burger&apos;s juice, this one has no such sponge-like qualities. One might worry that the deluge of succulent burger &quot;nectar&quot; lost with each bite would take away from the taste, but this is not the case. Nectar&apos;s creation has more than enough juice to go around, covering the eater&apos;s hands, fries, pickle, as well as any other stray accoutrements that might otherwise have been deemed  &quot;too veggie.&quot; Alongside a chocolate milkshake, this burger truly satisfies.
+
+-MK</string>
+			<key>tip</key>
+			<string>Go for the chocolate milkshake.</string>
+		</dict>
+	</array>
+	<key>P</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>The Palm</string>
+			<key>address</key>
+			<string>837 Second Ave. (44th &amp; 45th Streets)</string>
+			<key>phone</key>
+			<string>212-687-2953</string>
+			<key>hours</key>
+			<string>Open M Noon-10pm, T-F Noon-11pm</string>
+			<key>hours2</key>
+			<string>S 5-11pm, Closed Sundays</string>
+			<key>meat</key>
+			<string>80% lean sirloin</string>
+			<key>bun</key>
+			<string>Sesame seed</string>
+			<key>cheese</key>
+			<string>Cheddar</string>
+			<key>neighborhood</key>
+			<string>Midtown East</string>
+			<key>latitude</key>
+			<string>40.75170289898889</string>
+			<key>longitude</key>
+			<string>-73.97120475769043</string>
+			<key>thoughts</key>
+			<string>The Palm is known for its steak, lobster, and Italian dishes. It had never occurred to me to order one of the restaurant’s six burgers. But, when I was finally wise enough to try the “Classic burger,” I was thrilled with my selection. It was absolutely delicious. It has a steak-y taste that one would expect of The Palm. And while this burger is not as glamorous as the restaurant’s reputation would suggest, the sirloin blend was definitely high quality, and very rich in flavor. 
+
+-SN</string>
+			<key>tip</key>
+			<string>Burger at lunch only.</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>The Palm</string>
+			<key>address</key>
+			<string>206 West Street (at Warren Street)</string>
+			<key>phone</key>
+			<string>646-395-6393</string>
+			<key>hours</key>
+			<string>Open M-F 11:30am-11pm</string>
+			<key>hours2</key>
+			<string>S 5-11pm, Su 5-10pm</string>
+			<key>meat</key>
+			<string>80% lean sirloin</string>
+			<key>bun</key>
+			<string>Sesame seed</string>
+			<key>cheese</key>
+			<string>Cheddar</string>
+			<key>neighborhood</key>
+			<string>TriBeCa</string>
+			<key>latitude</key>
+			<string>40.71662313269983</string>
+			<key>longitude</key>
+			<string>-74.0127682685852</string>
+			<key>thoughts</key>
+			<string>The Palm is known for its steak, lobster, and Italian dishes. It had never occurred to me to order one of the restaurant’s six burgers. But, when I was finally wise enough to try the “Classic burger,” I was thrilled with my selection. It was absolutely delicious. It has a steak-y taste that one would expect of The Palm. And while this burger is not as glamorous as the restaurant’s reputation would suggest, the sirloin blend was definitely high quality, and very rich in flavor. 
+
+-SN</string>
+			<key>tip</key>
+			<string>Burger at lunch only.</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Perry Street</string>
+			<key>address</key>
+			<string>176 Perry St. (at the West Side Highway)</string>
+			<key>phone</key>
+			<string>212-352-1900</string>
+			<key>hours</key>
+			<string>Open M-F Noon-3pm, S-Su 11am-3:30pm</string>
+			<key>hours2</key>
+			<string>Su-Th 5:30pm-10:30pm, F-S 5:30pm-11:30pm</string>
+			<key>bun</key>
+			<string>Sesame seed</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>West Village</string>
+			<key>latitude</key>
+			<string>40.734436</string>
+			<key>longitude</key>
+			<string>-74.009861</string>
+			<key>meat</key>
+			<string>Char-grilled</string>
+			<key>thoughts</key>
+			<string>The Perry Street burger manages to maintain all of the elements of the traditional American cheeseburger (fast food fries, an onion ring, sesame seed bun) – while at the same time, remaining relatively light. It satisfies but doesn&apos;t leave you kneeling over in the all too familiar burger coma. It crunches but doesn&apos;t crumble. It is composed of quality ingredients, but come on, it&apos;s no salad.
+
+If you are questioning whether the Perry Street burger is too good to be true, it really is just that well-conceived.
+
+-SN</string>
+			<key>tip</key>
+			<string>Lunch and early-bird specials available!</string>
+		</dict>
+	</array>
+	<key>R</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>Resto</string>
+			<key>address</key>
+			<string>111 E 29th St. (Lexington and Park Ave.)</string>
+			<key>phone</key>
+			<string>212-685-5585</string>
+			<key>hours</key>
+			<string>Open M-F Noon-11:30pm</string>
+			<key>hours2</key>
+			<string>S 10am-11:30pm, Su 10am-10:30pm</string>
+			<key>meat</key>
+			<string>DeBragga &amp; Spitler</string>
+			<key>bun</key>
+			<string>White</string>
+			<key>cheese</key>
+			<string>Gruyère</string>
+			<key>neighborhood</key>
+			<string>Murray Hill</string>
+			<key>latitude</key>
+			<string>40.743661</string>
+			<key>longitude</key>
+			<string>-73.982957</string>
+			<key>thoughts</key>
+			<string>Resto serves up delicious, albeit pricey burgers in a quiet, intimate environment. With an excellent beer list, frites, and frites sauces galore, this Murray Hill spot is not to be missed.
+
+-MK</string>
+			<key>tip</key>
+			<string>Belgian frites and sauce = excellent</string>
+		</dict>
+	</array>
+	<key>S</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>Sheep Station</string>
+			<key>address</key>
+			<string>149 4th Avenue (at Douglass St.), Brooklyn</string>
+			<key>phone</key>
+			<string>718-857-4337</string>
+			<key>hours</key>
+			<string>Open M-Th &amp; Su 11am-2am</string>
+			<key>hours2</key>
+			<string>F-S 11am-4am</string>
+			<key>meat</key>
+			<string>80% lean chuck</string>
+			<key>bun</key>
+			<string>Sesame seed</string>
+			<key>cheese</key>
+			<string>Australian cheddar</string>
+			<key>neighborhood</key>
+			<string>Gowanus</string>
+			<key>latitude</key>
+			<string>40.67933621045698</string>
+			<key>longitude</key>
+			<string>-73.98141860961914</string>
+			<key>thoughts</key>
+			<string>Sheep Station, located in up-and-coming Gowanus in Brooklyn, serves up an eclectic “Australian” burger. Topped with grilled pineapple, beets, caramelized onions, and a fried egg, this burger is an exercise in both balance and taste. Despite its laundry list of ingredients, the burger maintained its shape and stack surprisingly well through the experience. And although many overloaded burgers suffer from the “kitchen sink” effect, the toppings’ flavors blended together quite nicely, enhancing the meat without overpowering it. Several bars and restaurants have opened up in this neighborhood recently, but none has a burger like Sheep Station!
+
+-MK</string>
+			<key>tip</key>
+			<string>Have some Sheep&apos;s Milk!</string>
+		</dict>
+	</array>
+	<key>U</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>Union Square Cafe</string>
+			<key>address</key>
+			<string>21 E 16th St. (Fifth Ave. &amp; Union Sq. West)</string>
+			<key>phone</key>
+			<string>212-243-4020</string>
+			<key>hours</key>
+			<string>Open Su-Th Noon-2:30pm &amp; 5:30-10pm</string>
+			<key>hours2</key>
+			<string>F-S Noon-2:30pm &amp; 5:30-11pm</string>
+			<key>meat</key>
+			<string>Pat LaFrieda</string>
+			<key>bun</key>
+			<string>Home-made poppy</string>
+			<key>cheese</key>
+			<string>Cheddar</string>
+			<key>neighborhood</key>
+			<string>Union Square</string>
+			<key>latitude</key>
+			<string>40.73686027735298</string>
+			<key>longitude</key>
+			<string>-73.99138569831848</string>
+			<key>thoughts</key>
+			<string>Danny Meyer certainly knows his burgers. Though well-known for the tremendous success of Shake Shack, Meyer hits a home run with the burger at his original venture, Union Square Cafe. A homemade poppy seed brioche bun sandwiches 9oz of LaFrieda&apos;s best, along with thick-cut bacon and a solid melt of cheddar. USC&apos;s is a perfect example of burger culture in NYC; no matter the venue - whether outside in Madison Square Park, or on a pristine white tablecloth - a burger hound would not think twice before dousing his or her surroundings with precious LaFrieda juice.
+
+-MK</string>
+			<key>tip</key>
+			<string>Try the calamari!</string>
+		</dict>
+	</array>
+	<key>V</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>Vandaag</string>
+			<key>address</key>
+			<string>103 Second Avenue (at 6th Street)</string>
+			<key>phone</key>
+			<string>212-253-0470</string>
+			<key>hours</key>
+			<string>Open M-S Noon-4pm, S-Su 11am-4:30pm</string>
+			<key>hours2</key>
+			<string>Su-M 6-10pm, T-S 5:30-11pm, Th-S 11pm-1am</string>
+			<key>meat</key>
+			<string>Wagyu/Angus 70/30</string>
+			<key>bun</key>
+			<string>Black sesame brioche</string>
+			<key>cheese</key>
+			<string>Gouda</string>
+			<key>neighborhood</key>
+			<string>East Village</string>
+			<key>latitude</key>
+			<string>40.72755146730012</string>
+			<key>longitude</key>
+			<string>-73.98867130279541</string>
+			<key>thoughts</key>
+			<string>Two things set this burger apart. Atop the burger sits a half-inch thick grilled onion which, along with the gouda, cuts the meat&apos;s intensity so that bites are flavorful but balanced, and full of interesting textures. Second, the rough-cut sautéed potatoes are crisp on the outside, soft on the inside, and sure to please when dipped in Vandaag&apos;s spicy aioli.
+
+-MK</string>
+			<key>tip</key>
+			<string>Try their bacon-y potato side delight!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Veselka</string>
+			<key>address</key>
+			<string>144 Second Avenue (at 9th Street)</string>
+			<key>phone</key>
+			<string>212-228-9682</string>
+			<key>hours</key>
+			<string>Open daily</string>
+			<key>hours2</key>
+			<string>24 hours</string>
+			<key>meat</key>
+			<string>85% lean ground chuck</string>
+			<key>bun</key>
+			<string>Sesame seed</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>East Village</string>
+			<key>latitude</key>
+			<string>40.729038</string>
+			<key>longitude</key>
+			<string>-73.987223</string>
+			<key>thoughts</key>
+			<string>Veselka is the ultimate example of why it’s not ok to judge a restaurant by its façade. While the décor doesn’t attract passersby with strong electromagnetic force, this restaurant boasts delicious Ukrainian fare – and a seriously exceptional burger. Veselka is a no-frills kind of place – and one of the happiest places I’ve ever seen in New York City. 
+
+The burger is an apt reflection of the restaurant’s atmosphere. There are no fancy-shmancy accoutrements, only traditional burger elements (the bun, the meat, the pickles, etc.). However, each part is executed to perfection. Veselka means rainbow in Ukrainian – and their burger is a true pot of gold!
+
+-SN</string>
+			<key>tip</key>
+			<string>Follow up with the chocolate pudding...</string>
+		</dict>
+	</array>
+	<key>W</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>Westville West</string>
+			<key>address</key>
+			<string>210 West 10th St. (at Bleeker Street)</string>
+			<key>phone</key>
+			<string>212-741-7971</string>
+			<key>hours</key>
+			<string>Open M-F 11:30am-11pm</string>
+			<key>hours2</key>
+			<string>S-S 10am-11pm</string>
+			<key>meat</key>
+			<string>80% lean</string>
+			<key>bun</key>
+			<string>Portugese muffin</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>West Village</string>
+			<key>latitude</key>
+			<string>40.73403931699612</string>
+			<key>longitude</key>
+			<string>-74.00427103042603</string>
+			<key>thoughts</key>
+			<string>The Westville burger can truly be described as a treat. The meat, blended with finely diced onion, is flavorful and juicy without being too heavy. Served on a Portuguese muffin with optional cheese, bacon, and avocado, the Westville burger is a modestly priced option for lunch or dinner, seven days a week.
+
+-MK</string>
+			<key>tip</key>
+			<string>Add avocado and bacon!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Westville East</string>
+			<key>address</key>
+			<string>173 Avenue A (at 11th Street)</string>
+			<key>phone</key>
+			<string>212-677-2033</string>
+			<key>hours</key>
+			<string>Open daily</string>
+			<key>hours2</key>
+			<string>10am-11pm</string>
+			<key>meat</key>
+			<string>80% lean</string>
+			<key>bun</key>
+			<string>Portugese muffin</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>East Village</string>
+			<key>latitude</key>
+			<string>40.72820190682675</string>
+			<key>longitude</key>
+			<string>-73.98195505142212</string>
+			<key>thoughts</key>
+			<string>The Westville burger can truly be described as a treat. The meat, blended with finely diced onion, is flavorful and juicy without being too heavy. Served on a Portuguese muffin with optional cheese, bacon, and avocado, the Westville burger is a modestly priced option for lunch or dinner, seven days a week.
+
+-MK</string>
+			<key>tip</key>
+			<string>Add avocado and bacon!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Westville Chelsea</string>
+			<key>address</key>
+			<string>246 West 18th St. (Seventh &amp; Eighth Ave.)</string>
+			<key>phone</key>
+			<string>212-924-2223</string>
+			<key>hours</key>
+			<string>Open daily</string>
+			<key>hours2</key>
+			<string>10am-11pm</string>
+			<key>meat</key>
+			<string>80% lean</string>
+			<key>bun</key>
+			<string>Portugese muffin</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>Chelsea</string>
+			<key>latitude</key>
+			<string>40.74184341069741</string>
+			<key>longitude</key>
+			<string>-73.9999794960022</string>
+			<key>thoughts</key>
+			<string>The Westville burger can truly be described as a treat. The meat, blended with finely diced onion, is flavorful and juicy without being too heavy. Served on a Portuguese muffin with optional cheese, bacon, and avocado, the Westville burger is a modestly priced option for lunch or dinner, seven days a week.
+
+-MK</string>
+			<key>tip</key>
+			<string>Add avocado and bacon!</string>
+		</dict>
+	</array>
+	<key>Z</key>
+	<array>
+		<dict>
+			<key>resto</key>
+			<string>Zaitzeff</string>
+			<key>address</key>
+			<string>711 Second Ave. (38th &amp; 39th St.)</string>
+			<key>phone</key>
+			<string>212-867-3471</string>
+			<key>hours</key>
+			<string>Open daily</string>
+			<key>hours2</key>
+			<string>11am-10pm</string>
+			<key>meat</key>
+			<string>Kobe beef</string>
+			<key>bun</key>
+			<string>Portugese muffin</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>Murray Hill</string>
+			<key>latitude</key>
+			<string>40.747559</string>
+			<key>longitude</key>
+			<string>-73.974019</string>
+			<key>thoughts</key>
+			<string>Zaitzeff serves up unpretentious burgers in a utilitarian atmosphere, and provides nothing short of a juicy, delicious experience. No frills here, just a hearty slab of gruyère, some thinly sliced avocado, and a Kobe patty, all served on a lightly-toasted Portugese muffin. The gents there do it right; alongside our two modestly priced burgers (try finding a $9 Kobe burger elsewhere in the city), we were pleasantly surprised when the chef presented us with a complimentary order of fries -- usually $5 extra. The best fries in life are indeed free.
+
+-MK</string>
+			<key>tip</key>
+			<string>Add avocado!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Zaitzeff</string>
+			<key>address</key>
+			<string>18 Avenue B (at East 2nd Street)</string>
+			<key>phone</key>
+			<string>212-477-7137</string>
+			<key>hours</key>
+			<string>Open M-Th Noon-11:30pm</string>
+			<key>hours2</key>
+			<string>F-S Noon-1am</string>
+			<key>meat</key>
+			<string>Kobe beef</string>
+			<key>bun</key>
+			<string>Portugese muffin</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>Alphabet City</string>
+			<key>latitude</key>
+			<string>40.72206313067683</string>
+			<key>longitude</key>
+			<string>-73.98343563079834</string>
+			<key>thoughts</key>
+			<string>Zaitzeff serves up unpretentious burgers in a utilitarian atmosphere, and provides nothing short of a juicy, delicious experience. No frills here, just a hearty slab of gruyère, some thinly sliced avocado, and a Kobe patty, all served on a lightly-toasted Portugese muffin. The gents there do it right; alongside our two modestly priced burgers (try finding a $9 Kobe burger elsewhere in the city), we were pleasantly surprised when the chef presented us with a complimentary order of fries -- usually $5 extra. The best fries in life are indeed free.
+
+-MK</string>
+			<key>tip</key>
+			<string>Add avocado!</string>
+		</dict>
+		<dict>
+			<key>resto</key>
+			<string>Zaitzeff</string>
+			<key>address</key>
+			<string>72 Nassau Street (at John Street)</string>
+			<key>phone</key>
+			<string>212-571-7272</string>
+			<key>hours</key>
+			<string>Open M-F 9:30am-9:30pm</string>
+			<key>hours2</key>
+			<string>S-Su 10:30am-1am</string>
+			<key>meat</key>
+			<string>Kobe beef</string>
+			<key>bun</key>
+			<string>Portugese muffin</string>
+			<key>cheese</key>
+			<string>Choice of cheese</string>
+			<key>neighborhood</key>
+			<string>Financial District</string>
+			<key>latitude</key>
+			<string>40.70951549995188</string>
+			<key>longitude</key>
+			<string>-74.00819778442383</string>
+			<key>thoughts</key>
+			<string>Zaitzeff serves up unpretentious burgers in a utilitarian atmosphere, and provides nothing short of a juicy, delicious experience. No frills here, just a hearty slab of gruyère, some thinly sliced avocado, and a Kobe patty, all served on a lightly-toasted Portugese muffin. The gents there do it right; alongside our two modestly priced burgers (try finding a $9 Kobe burger elsewhere in the city), we were pleasantly surprised when the chef presented us with a complimentary order of fries -- usually $5 extra. The best fries in life are indeed free.
+
+-MK</string>
+			<key>tip</key>
+			<string>Add avocado!</string>
+		</dict>
+	</array>
+</dict>
+</plist>

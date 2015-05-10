@@ -1,0 +1,150 @@
+/*
+    NSDictionary *bCafe = [burgers objectAtIndex:0];
+    BurgerAnnotation *bCafeAnnotation = [[BurgerAnnotation alloc] init];
+        bCafeAnnotation.lat = [bCafe objectForKey:kLat];
+        bCafeAnnotation.lon = [bCafe objectForKey:kLon];
+        bCafeAnnotation.title = [bCafe objectForKey:kResto];
+        bCafeAnnotation.subtitle = [bCafe objectForKey:kLocation];
+        [mapView addAnnotation:bCafeAnnotation];
+        [bCafeAnnotation release];
+        
+    NSDictionary *bLT = [burgers objectAtIndex:1];
+    BurgerAnnotation *bLTAnnotation = [[BurgerAnnotation alloc] init];
+        bLTAnnotation.lat = [bLT objectForKey:kLat];
+        bLTAnnotation.lon = [bLT objectForKey:kLon];
+        bLTAnnotation.title = [bLT objectForKey:kResto];
+        bLTAnnotation.subtitle = [bLT objectForKey:kLocation];
+        [mapView addAnnotation:bLTAnnotation];
+        [bLTAnnotation release];
+}*/
+
+
+
+    //[mapView addAnnotations:burgerAnnotations];
+    //[burgerAnnotations release];
+    
+    
+/*
+    
+    NSDictionary *rootOfArboDataPlistDict = [[NSDictionary alloc] initWithContentsOfFile:plistPath];
+    NSMutableArray *arboAnnotations = [[NSMutableArray alloc] init];
+
+    for (NSString *key in rootOfArboDataPlistDict) {
+
+        NSMutableDictionary *arboDict = [rootOfArboDataPlistDict objectForKey:key];
+
+        //array containing annotation information: latitude, longitude, title, subtitle(see PermitData.plist)
+        NSArray *annotationsArray = [arboDict objectForKey:@"annotations"];
+
+        CLLocationCoordinate2D workingCoordinate;
+        //loop through annotations array, creating parking annotations filled with the information found in the plist
+        for(NSDictionary *annotationContainerDict in annotationsArray){
+
+            ArboretumAnnotation *arboAnnot = [[ArboretumAnnotation alloc] init];
+            workingCoordinate.latitude = [[annotationContainerDict objectForKey:@"latitude"] doubleValue];
+            workingCoordinate.longitude = [[annotationContainerDict objectForKey:@"longitude"] doubleValue];
+            [arboAnnot setCoordinate:workingCoordinate];
+            [arboAnnot setTitle:[annotationContainerDict objectForKey:@"title"]];
+            [arboAnnot setSubtitle:[annotationContainerDict objectForKey:@"subtitle"]];
+            [arboAnnotations addObject:arboAnnot];
+            [arboAnnot release];
+        }//for
+    }//for
+    [mapView addAnnotations:arboAnnotations];
+    [arboAnnotations release];
+}
+    
+*/
+    
+    
+    
+    
+    
+    
+- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(id <MKAnnotation>)annotation {
+    // Boilerplate pin annotation code
+    MKPinAnnotationView *pin = (MKPinAnnotationView *) [self.map dequeueReusableAnnotationViewWithIdentifier: @"restMap"];
+    if (pin == nil) {
+        pin = [[[MKPinAnnotationView alloc] initWithAnnotation: annotation reuseIdentifier: @"restMap"] autorelease];
+    } else {
+        pin.annotation = annotation;
+    }
+    pin.pinColor = MKPinAnnotationColorRed
+    pin.canShowCallout = YES;
+    pin.animatesDrop = NO;
+
+    // now we'll add the right callout button
+    UIButton *detailButton = [UIButton buttonWithType:UIButtonTypeDetailDisclosure];
+
+    // customize this line to fit the structure of your code.  basically
+    // you just need to find an integer value that matches your object in some way:
+    // its index in your array of MKAnnotation items, or an id of some sort, etc
+    // 
+    // here I'll assume you have an annotation array that is a property of the current
+    // class and we just want to store the index of this annotation.
+    NSInteger annotationValue = [self.annotations indexOfObject:annotation];
+
+    // set the tag property of the button to the index
+    detailButton.tag = annotationValue;
+
+    // tell the button what to do when it gets touched
+    [detailButton addTarget:self action:@selector(showDetailView:) forControlEvents:UIControlEventTouchUpInside];
+
+    pin.rightCalloutAccessoryView = detailButton;
+    return pin;    
+    
+    
+-(IBAction)showDetailView:(UIView*)sender {
+    // get the tag value from the sender
+    NSInteger selectedIndex = sender.tag;
+    MyAnnotationObject *selectedObject = [self.annotations objectAtIndex:selectedIndex];
+
+    // now you know which detail view you want to show; the code that follows
+    // depends on the structure of your app, but probably looks like:
+    MyDetailViewController *detailView = [[MyDetailViewController alloc] initWithNibName...];
+    detailView.detailObject = selectedObject;
+
+    [[self navigationController] pushViewController:detailView animated:YES];
+    [detailView release];
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+

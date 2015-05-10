@@ -1,0 +1,394 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* TheBigBurgerV_1AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* TheBigBurgerV_1AppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		8517F5441409C8BC003E6D69 /* infopage.png in Resources */ = {isa = PBXBuildFile; fileRef = 8517F5431409C8BC003E6D69 /* infopage.png */; };
+		856E66C513F5B2520022B1BC /* locationarrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 856E66C413F5B2520022B1BC /* locationarrow.png */; };
+		85938AB413CF192C00BD7B21 /* BurgerListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85938AB213CF192C00BD7B21 /* BurgerListViewController.m */; };
+		85938AC213CF196500BD7B21 /* BurgerMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85938AC013CF196500BD7B21 /* BurgerMapViewController.m */; };
+		85938B0713CF9B4800BD7B21 /* BurgerDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85938B0513CF9B4800BD7B21 /* BurgerDetailViewController.m */; };
+		85938B0813CF9B4800BD7B21 /* BurgerDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 85938B0613CF9B4800BD7B21 /* BurgerDetailViewController.xib */; };
+		85938BF413D0D01600BD7B21 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85938BF313D0D01600BD7B21 /* MapKit.framework */; };
+		85938E2413D2640100BD7B21 /* BurgerDetailMapController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85938E2213D2640100BD7B21 /* BurgerDetailMapController.m */; };
+		85938E2513D2640100BD7B21 /* BurgerDetailMapController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 85938E2313D2640100BD7B21 /* BurgerDetailMapController.xib */; };
+		8597751D13D9CBA800A0BC30 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8597751C13D9CBA800A0BC30 /* CoreLocation.framework */; };
+		8597752113D9CBB200A0BC30 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8597752013D9CBB200A0BC30 /* Foundation.framework */; };
+		859C562713D7068200BFB36B /* BurgerListCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 859C562613D7068200BFB36B /* BurgerListCell.xib */; };
+		859C568913D7658D00BFB36B /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 859C568813D7658D00BFB36B /* Default.png */; };
+		85B35E8513F4895D009815CA /* burgermap.png in Resources */ = {isa = PBXBuildFile; fileRef = 85B35E8413F4895D009815CA /* burgermap.png */; };
+		85B35E8713F48980009815CA /* burgerlist.png in Resources */ = {isa = PBXBuildFile; fileRef = 85B35E8613F48980009815CA /* burgerlist.png */; };
+		85CA2C1313DCD8D70054C466 /* burgericon.png in Resources */ = {isa = PBXBuildFile; fileRef = 85CA2C1213DCD8D70054C466 /* burgericon.png */; };
+		85CA2D1E13DE20520054C466 /* BurgerList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 85CA2D1D13DE20520054C466 /* BurgerList.plist */; };
+		85D487B213FA9E0D0003D53D /* InfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D487B013FA9E0D0003D53D /* InfoViewController.m */; };
+		85D487B313FA9E0D0003D53D /* InfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 85D487B113FA9E0D0003D53D /* InfoViewController.xib */; };
+		85FDCD2D13D36C2500045BDE /* BurgerAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 85FDCD2C13D36C2500045BDE /* BurgerAnnotation.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D3623240D0F684500981E51 /* TheBigBurgerV_1AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TheBigBurgerV_1AppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* TheBigBurgerV_1AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TheBigBurgerV_1AppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* TheBigBurgerV.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheBigBurgerV.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* TheBigBurgerV_1_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TheBigBurgerV_1_Prefix.pch; sourceTree = "<group>"; };
+		8517F5431409C8BC003E6D69 /* infopage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = infopage.png; sourceTree = "<group>"; };
+		856E66C413F5B2520022B1BC /* locationarrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = locationarrow.png; sourceTree = "<group>"; };
+		85938AB113CF192C00BD7B21 /* BurgerListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BurgerListViewController.h; sourceTree = "<group>"; };
+		85938AB213CF192C00BD7B21 /* BurgerListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BurgerListViewController.m; sourceTree = "<group>"; };
+		85938ABF13CF196500BD7B21 /* BurgerMapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BurgerMapViewController.h; sourceTree = "<group>"; };
+		85938AC013CF196500BD7B21 /* BurgerMapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BurgerMapViewController.m; sourceTree = "<group>"; };
+		85938B0413CF9B4800BD7B21 /* BurgerDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BurgerDetailViewController.h; sourceTree = "<group>"; };
+		85938B0513CF9B4800BD7B21 /* BurgerDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BurgerDetailViewController.m; sourceTree = "<group>"; };
+		85938B0613CF9B4800BD7B21 /* BurgerDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = BurgerDetailViewController.xib; path = Classes/BurgerDetailViewController.xib; sourceTree = "<group>"; };
+		85938BF313D0D01600BD7B21 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		85938D6113D22B6400BD7B21 /* BurgerConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BurgerConstants.h; sourceTree = "<group>"; };
+		85938E2113D2640100BD7B21 /* BurgerDetailMapController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BurgerDetailMapController.h; sourceTree = "<group>"; };
+		85938E2213D2640100BD7B21 /* BurgerDetailMapController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BurgerDetailMapController.m; sourceTree = "<group>"; };
+		85938E2313D2640100BD7B21 /* BurgerDetailMapController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = BurgerDetailMapController.xib; path = Classes/BurgerDetailMapController.xib; sourceTree = "<group>"; };
+		8597751C13D9CBA800A0BC30 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		8597752013D9CBB200A0BC30 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8597754613D9CFC900A0BC30 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		859C562613D7068200BFB36B /* BurgerListCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BurgerListCell.xib; sourceTree = "<group>"; };
+		859C568813D7658D00BFB36B /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		85B35E8413F4895D009815CA /* burgermap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burgermap.png; sourceTree = "<group>"; };
+		85B35E8613F48980009815CA /* burgerlist.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burgerlist.png; sourceTree = "<group>"; };
+		85CA2C1213DCD8D70054C466 /* burgericon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burgericon.png; sourceTree = "<group>"; };
+		85CA2D1D13DE20520054C466 /* BurgerList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BurgerList.plist; sourceTree = "<group>"; };
+		85D487AF13FA9E0D0003D53D /* InfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoViewController.h; sourceTree = "<group>"; };
+		85D487B013FA9E0D0003D53D /* InfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoViewController.m; sourceTree = "<group>"; };
+		85D487B113FA9E0D0003D53D /* InfoViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = InfoViewController.xib; path = Classes/InfoViewController.xib; sourceTree = "<group>"; };
+		85FDCD2B13D36C1C00045BDE /* BurgerAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BurgerAnnotation.h; sourceTree = "<group>"; };
+		85FDCD2C13D36C2500045BDE /* BurgerAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BurgerAnnotation.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* TheBigBurgerV_1-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TheBigBurgerV_1-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				85938BF413D0D01600BD7B21 /* MapKit.framework in Frameworks */,
+				8597751D13D9CBA800A0BC30 /* CoreLocation.framework in Frameworks */,
+				8597752113D9CBB200A0BC30 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* TheBigBurgerV_1AppDelegate.h */,
+				1D3623250D0F684500981E51 /* TheBigBurgerV_1AppDelegate.m */,
+				85938D6113D22B6400BD7B21 /* BurgerConstants.h */,
+				8500963F140B3B1100FA8614 /* View Controllers */,
+				85FDCD2B13D36C1C00045BDE /* BurgerAnnotation.h */,
+				85FDCD2C13D36C2500045BDE /* BurgerAnnotation.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* TheBigBurgerV.1.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				8597754613D9CFC900A0BC30 /* Entitlements.plist */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* TheBigBurgerV_1_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				859C562613D7068200BFB36B /* BurgerListCell.xib */,
+				85938B0613CF9B4800BD7B21 /* BurgerDetailViewController.xib */,
+				85938E2313D2640100BD7B21 /* BurgerDetailMapController.xib */,
+				85D487B113FA9E0D0003D53D /* InfoViewController.xib */,
+				8D1107310486CEB800E47090 /* TheBigBurgerV_1-Info.plist */,
+				85CA2D1D13DE20520054C466 /* BurgerList.plist */,
+				85D487B413FA9E1F0003D53D /* Images */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				85938BF313D0D01600BD7B21 /* MapKit.framework */,
+				8597751C13D9CBA800A0BC30 /* CoreLocation.framework */,
+				8597752013D9CBB200A0BC30 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8500963F140B3B1100FA8614 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				85D487AF13FA9E0D0003D53D /* InfoViewController.h */,
+				85D487B013FA9E0D0003D53D /* InfoViewController.m */,
+				85938AB113CF192C00BD7B21 /* BurgerListViewController.h */,
+				85938AB213CF192C00BD7B21 /* BurgerListViewController.m */,
+				85938B0413CF9B4800BD7B21 /* BurgerDetailViewController.h */,
+				85938B0513CF9B4800BD7B21 /* BurgerDetailViewController.m */,
+				85938E2113D2640100BD7B21 /* BurgerDetailMapController.h */,
+				85938E2213D2640100BD7B21 /* BurgerDetailMapController.m */,
+				85938ABF13CF196500BD7B21 /* BurgerMapViewController.h */,
+				85938AC013CF196500BD7B21 /* BurgerMapViewController.m */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		85D487B413FA9E1F0003D53D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				8517F5431409C8BC003E6D69 /* infopage.png */,
+				85B35E8413F4895D009815CA /* burgermap.png */,
+				85B35E8613F48980009815CA /* burgerlist.png */,
+				85CA2C1213DCD8D70054C466 /* burgericon.png */,
+				856E66C413F5B2520022B1BC /* locationarrow.png */,
+				859C568813D7658D00BFB36B /* Default.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* TheBigBurgerV.1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "TheBigBurgerV.1" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TheBigBurgerV.1;
+			productName = TheBigBurgerV.1;
+			productReference = 1D6058910D05DD3D006BFB54 /* TheBigBurgerV.1.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "TheBigBurgerV.1" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* TheBigBurgerV.1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				85938B0813CF9B4800BD7B21 /* BurgerDetailViewController.xib in Resources */,
+				85938E2513D2640100BD7B21 /* BurgerDetailMapController.xib in Resources */,
+				859C562713D7068200BFB36B /* BurgerListCell.xib in Resources */,
+				859C568913D7658D00BFB36B /* Default.png in Resources */,
+				85CA2C1313DCD8D70054C466 /* burgericon.png in Resources */,
+				85CA2D1E13DE20520054C466 /* BurgerList.plist in Resources */,
+				85B35E8513F4895D009815CA /* burgermap.png in Resources */,
+				85B35E8713F48980009815CA /* burgerlist.png in Resources */,
+				856E66C513F5B2520022B1BC /* locationarrow.png in Resources */,
+				85D487B313FA9E0D0003D53D /* InfoViewController.xib in Resources */,
+				8517F5441409C8BC003E6D69 /* infopage.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* TheBigBurgerV_1AppDelegate.m in Sources */,
+				85938AB413CF192C00BD7B21 /* BurgerListViewController.m in Sources */,
+				85938AC213CF196500BD7B21 /* BurgerMapViewController.m in Sources */,
+				85938B0713CF9B4800BD7B21 /* BurgerDetailViewController.m in Sources */,
+				85938E2413D2640100BD7B21 /* BurgerDetailMapController.m in Sources */,
+				85FDCD2D13D36C2500045BDE /* BurgerAnnotation.m in Sources */,
+				85D487B213FA9E0D0003D53D /* InfoViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/prog/objective c/learn/TheBigBurgerV.1/Entitlements.plist";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = TheBigBurgerV_1_Prefix.pch;
+				INFOPLIST_FILE = "TheBigBurgerV_1-Info.plist";
+				PRODUCT_NAME = TheBigBurgerV.1;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/prog/objective c/learn/TheBigBurgerV.1/Entitlements.plist";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = TheBigBurgerV_1_Prefix.pch;
+				INFOPLIST_FILE = "TheBigBurgerV_1-Info.plist";
+				PRODUCT_NAME = TheBigBurgerV.1;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		853F407413D9BE92005E8ECA /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos4.3;
+			};
+			name = Distribution;
+		};
+		853F407513D9BE92005E8ECA /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Maxwell Kramer";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = TheBigBurgerV_1_Prefix.pch;
+				INFOPLIST_FILE = "TheBigBurgerV_1-Info.plist";
+				PRODUCT_NAME = TheBigBurgerV.1;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "288F2FB3-ED6A-4FC6-B90C-ED851113D296";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "TheBigBurgerV.1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				853F407513D9BE92005E8ECA /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "TheBigBurgerV.1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				853F407413D9BE92005E8ECA /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
